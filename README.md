@@ -3,6 +3,8 @@ Some batch/exe stuff i do for cats are liquid. It's fun messing around with the 
 
 CaL-ABP_Retexturer has been taken down. Sorry.
 
+TRY OUT External Cats Are Liquid Settings!! Do it. Else I'll haunt you in your sleep.
+
 
 
 # Licenses and all that shiz:
