@@ -1,3 +1,10 @@
+# 1.1.0 - It's close.
+
+1.1.0 is almost finished! It includes a lot of bugfixes, better performance, features, and is slightly lighter!
+Here's a sneek peek:
+
+<img width="1080" alt="preview" src="https://github.com/iLovePrizes/CatsAreLiquidThingmadoodles/assets/138893770/d4163b59-8430-4b3a-8084-2d1715f56b4b">
+
 # CatsAreLiquidThingmadoodles
 Some batch/exe stuff i do for cats are liquid. It's fun messing around with the game, isn't it? XD
 
