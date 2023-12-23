@@ -1,3 +1,10 @@
+# The end of CatsAreLiquidThingmadoodles
+
+I don't even know what to do with this repository anymore, especially CaL-ABP_Settings, since there's nothing else I can add there anymore.
+
+
+
+
 # 1.1.0 - It's close.
 
 1.1.0 is almost finished! It includes a lot of bugfixes, better performance, features, and is slightly lighter!
